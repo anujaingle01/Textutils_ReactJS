@@ -1,0 +1,2 @@
+/users --> Component 1
+/users/home --> Component 2
